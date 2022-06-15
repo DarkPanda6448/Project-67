@@ -62,11 +62,12 @@ export default class HomeScreen extends Component {
 
 const styles = StyleSheet.create({
   buttonsContainer: {
+    backgroundColor:"beige",
     alignSelf: 'center',
     marginTop: 50,
   },
   buttons: {
-    backgroundColor:"coral",
+    backgroundColor:"green",
     alignItems: 'center',
     justifyContent: 'center',
     borderWidth: 1,
